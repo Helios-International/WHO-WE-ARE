@@ -1,11 +1,11 @@
-// HEY ! - if any of the context or formatting seems off to you, please ensure you are zoomed out
-           the file is non-dynamic formatted, therefor text may not fit or look
-           perfect to you, this occurs if you are zoomed in, low resolutions, etc. 
+// NOTICE: Ensure that you are viewing this file in the correct zoom level.
+// This file uses a static format, which may appear misaligned or improperly rendered 
+// if viewed at low resolutions or while zoomed in. Adjust your view settings as needed.
 
-// ALERT! - This file is a *.heliostrfile and contains embedded security countermeasures 
-            designed to verify HELIOS-AUTHORIZED devices before granting access to our systems.
+// ALERT: This file is a *.heliostrfile and contains embedded security countermeasures
+// designed to authenticate HELIOS-AUTHORIZED devices before allowing access to our systems.
 
-// WARN ! - if you believe you have found any discrepancies with this file, please contact us
+// WARNING: If you detect any discrepancies in this file, please contact us immediately.
 
 |------------------------------------------------------------------------------------------|
 | THE FOLLOWING INFORMATION IS PUBLICLY DISCLOSED (REFERRED TO AS "PUBLIC INFORMATION").   |
@@ -17,13 +17,12 @@
 | NO OTHER SOURCES OR PLATFORMS SHALL BE RECOGNIZED AS PROVIDING AUTHORIZED                |
 | DISCLOSURE ON BEHALF OF HELIOS INTERNATIONAL.                                            |
 |------------------------------------------------------------------------------------------|
-
-                                    DD/MM/YYYY   VER
-// IMPRINT - HELIOS (LAST UPDATED : 12/01/2025 - 6B)
+                                     DD/MM/YYYY   VER
+// DOCUMENT IMPRINT - HELIOS (LAST UPDATED: 12/01/2025 - VERSION 6B)
 
 |------------------------------------------------------------------------------------------|
- 
-    BEGIN PRIMARY IMPRINT // THIS IS VERSION 6B // TR00011101FC // USEF7-OPS-FORMAT
+
+    BEGIN PRIMARY IMPRINT // VERSION 6B // TR00011101FC // USEF7-OPS-FORMAT
 
     [NAME]: Adam 
     [ALIAS]: helios, heliosfr, plshelios, helioslolxd, helios-14, helios9731, heliosxd
@@ -34,53 +33,47 @@
     [H-PREVG]: RUSTSUSSY2022-U-04
     [C-TRACK14]: f-0009
 
-    END PRIMARY IMPRINT // THIS IS VERSION 6B // TR00011101FC // USEF7-OPS-FORMAT
+    END PRIMARY IMPRINT // VERSION 6B // TR00011101FC // USEF7-OPS-FORMAT
 
+    BEGIN PMS - DISCLOSED // VERSION 3C // TR00011011FA // USEF9-OPS-FORMAT
 
+    Official passwords issued by HELIOS are derived exclusively from [PROJECT-PORTABLE],
+    [M14-PASSWORDS], [SIMPLEX-PROTECT], and [2SECURE]. The primary standard for password 
+    derivation is represented by [PORTABLE], [WeArePortable], or [Portable14].
 
-    BEGIN PMS - DISCLOSED // THIS IS VERSION 3C // TR00011011FA // USEF9-OPS-FORMAT
+    [Password Protocols]
+    All passwords adhere to the Secure Three Layer Password Protection System (STLPPS),
+    ensuring three layers of primary protection. Additional safeguards include:
 
-    Passwords that are OFFICIALLY by helios will always derive from [PROJECT-PORTABLE],
-    [M14-PASSWORDS], [SIMPLEX-PROTECT], and [2SECURE]. 
-    The primary derivation for passwords created by helios will always be represented 
-    by [PORTABLE] or [WeArePortable] or [Portable14].
+    1. VACS (Visual Analysis Countermeasures System): Prevents passwords from being 
+       memorized upon visual exposure, requiring secure storage for recall.
+    2. ASEA (Anti-Social Engineering Analysis): Prevents password guessing via social 
+       engineering techniques.
 
-    [password/info]
-    All built under the primary ruleset, STLPPS. (Secure Three Layer Password Protection
-    System). This ruleset ensures that passwords have three layers of primary protection
-    integrated. 
+    [Password Structure Analysis]
+    Note: Due to box boundary constraints, passwords are presented with line breaks 
+    but are a continuous string in actual implementation.
 
-    All built under the secondary ruleset, VACS. (Visual Analysis Countermeasures System). 
-    This ruleset ensures that passwords that are visibily viewed cannot be memorized whatsoever
-    therefor requiring them to be noted in order to know the password. 
-
-    All built under the tertiary ruleset, ASEA. (Anti Social Engineering Analysis). 
-    This ruleset ensures that passwords cannot be formed or guessed through the process of 
-    "social engineering". 
-
-    [passwords/structure-analysis]
-
-    // note: the password is all one line, due to box boundaries we must make a new line
-             however in reality this is note the case
-
-      Password Owner     Creation Year              VACS-1
-            V                  V                      V
+    Password Structure:
+    
+        Owner             Creation Year                 VACS-1
+           V                   V                          V
     h.f:("helios/")=BEGIN;0x-2025("VISUAL-IIlllIIllIllllIllIllIIIIllIlllIIIll");
-       H-TAG            Password Differentiator             Imprint
-         V                        V                            V
+       H-TAG            Differentiator                  Imprint
+         V                   V                             V
     copexcA12j-(Z-SECURETAG="DfA1!bmA;k!90").WeArePortable.MadeByGoodwin::/vffr
-              U4DSN/STLPPS                  HG-TAG             Format Version
-                   V                          V                      V
+              U4DSN/STLPPS             HG-TAG             Format Version
+                   V                     V                     V
     LETS-SECURE("U4SDN.xxxxx");(rand-tag:93nAtrg9910hefc):_LOGISTICAL_VERSION_8
 
-    (full/password)
+    Full Password:
 
     h.f:("helios/")=BEGIN;0x-2025("VISUAL-IIlllIIllIllllIllIllIIIIllIlllIIIll");
     copexcA12j-(Z-SECURETAG="DfA1!bmA;k!90").WeArePortable.MadeByGoodwin::/vffr
     LETS-SECURE("U4SDN.xxxxx");(rand-tag:93nAtrg9910hefc):_LOGISTICAL_VERSION_8
 
-    END PMS - DISCLOSED // THIS IS VERSION 3C // TR00011011FA // USEF9-OPS-FORMAT
-              
+    END PMS - DISCLOSED // VERSION 3C // TR00011011FA // USEF9-OPS-FORMAT
+
 |------------------------------------------------------------------------------------------|
 
-   // trg:NOTE~ ("version 9 of this document is awaiting .. ! thank you.")
+// NOTE: Version 9 of this document is pending publication. Thank you.
